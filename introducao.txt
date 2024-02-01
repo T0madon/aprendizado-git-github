@@ -1,0 +1,3 @@
+O curso começa explicando o conceito de Git e GitHub, mostrando como podemos usar essas
+ferramentas incríveis e suas principais vantagens. Também aprendi a instalar e utilizar uma
+máquina Linux, dessa forma programando pelo terminal Ubuntu, da MicrosoftStore.
